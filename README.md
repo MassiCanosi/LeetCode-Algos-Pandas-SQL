@@ -66,4 +66,5 @@ Pandas questions, answered in my spare time
 | [1948-rearrange-products-table](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
