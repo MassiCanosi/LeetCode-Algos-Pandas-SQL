@@ -22,6 +22,7 @@ Pandas questions, answered in my spare time
 | [0585-investments-in-2016](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0596-classes-more-than-5-students) |
 | [0608-tree-node](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0608-tree-node) |
 | [1179-game-play-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1182-game-play-analysis-iv) |
