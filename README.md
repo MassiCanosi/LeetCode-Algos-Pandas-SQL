@@ -36,5 +36,6 @@ Pandas questions, answered in my spare time
 | [1161-project-employees-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
