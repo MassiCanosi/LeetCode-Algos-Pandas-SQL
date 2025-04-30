@@ -55,4 +55,5 @@ Pandas questions, answered in my spare time
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1801-average-time-of-process-per-machine](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
