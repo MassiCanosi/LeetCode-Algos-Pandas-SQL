@@ -26,6 +26,7 @@ Pandas questions, answered in my spare time
 | [0601-human-traffic-of-stadium](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1182-game-play-analysis-iv) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
