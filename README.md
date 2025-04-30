@@ -42,5 +42,6 @@ Pandas questions, answered in my spare time
 | [1278-product-price-at-a-given-date](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
