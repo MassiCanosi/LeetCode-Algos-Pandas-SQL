@@ -31,6 +31,7 @@ Pandas questions, answered in my spare time
 | [0620-not-boring-movies](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1135-customers-who-bought-all-products) |
+| [1153-product-sales-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1153-product-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1182-game-play-analysis-iv) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
