@@ -39,5 +39,6 @@ Pandas questions, answered in my spare time
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1268-market-analysis-i) |
+| [1278-product-price-at-a-given-date](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1278-product-price-at-a-given-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
