@@ -67,4 +67,5 @@ Pandas questions, answered in my spare time
 | [2024-calculate-special-bonus](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
