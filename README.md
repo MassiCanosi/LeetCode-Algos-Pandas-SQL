@@ -45,5 +45,6 @@ Pandas questions, answered in my spare time
 | [1327-last-person-to-fit-in-the-bus](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1390-average-selling-price) |
+| [1415-students-and-examinations](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
