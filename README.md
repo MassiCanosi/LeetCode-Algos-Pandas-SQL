@@ -50,5 +50,6 @@ Pandas questions, answered in my spare time
 | [1462-list-the-products-ordered-in-a-period](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1523-capital-gainloss) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
