@@ -56,4 +56,5 @@ Pandas questions, answered in my spare time
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
