@@ -64,4 +64,5 @@ Pandas questions, answered in my spare time
 | [1908-recyclable-and-low-fat-products](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
