@@ -11,6 +11,7 @@ Pandas questions, answered in my spare time
 | [0178-rank-scores](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0184-department-highest-salary) |
 | [0608-tree-node](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0608-tree-node) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
