@@ -6,6 +6,7 @@ Pandas questions, answered in my spare time
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0176-second-highest-salary) |
 | [0608-tree-node](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0608-tree-node) |
 | [1664-find-users-with-valid-e-mails](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/1664-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
