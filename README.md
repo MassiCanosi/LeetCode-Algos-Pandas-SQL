@@ -85,4 +85,9 @@ Pandas questions, answered in my spare time
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MassiCanosi/LeetCode_Pandas/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
