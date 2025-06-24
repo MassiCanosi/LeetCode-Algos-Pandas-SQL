@@ -15,7 +15,7 @@ class Solution:
         total = 0
         prev = 0
 
-        for char roman_number:
+        for char in roman_number:
 
             current_value = mapping[char]
 
