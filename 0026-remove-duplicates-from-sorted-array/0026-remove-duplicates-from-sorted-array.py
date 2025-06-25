@@ -1,18 +1,23 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        node = 0
-        next_node = 0
-        _len = len(nums)
+        prev = list()
+        accum = 0
 
-        while next_node < _len:
-            while next_node < _len and nums[node] == nums[next_node]:
-                next_node += 1
-            if next_node >= _len:
-                break
-            
-            node += 1
-            nums[node] = nums[next_node]
+        def modify_lst_inplace(current, prev, accum):
+            if current not in prev:
+                    prev.append(current)
+                    accum += 1
+            else:
+                    nums.remove(current)
+                    nums.append('_')
+            return accum
 
-        k = len(set(nums))
+        for i, num in enumerate(nums):
+                current = nums[accum]
+                accum = modify_lst_inplace(current, prev, accum)
 
+        if "_" in nums:
+            k = len(set(nums))-1
+        else:
+            k = len(set(nums))
         return k
