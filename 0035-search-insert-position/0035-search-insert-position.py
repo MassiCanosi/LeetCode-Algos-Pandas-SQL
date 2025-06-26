@@ -3,8 +3,6 @@ class Solution:
 
         _len = len(nums)
         pointer = 0
-        otp = 0
-
         while pointer < _len:
             if nums[pointer] >= target:
                 pointer
